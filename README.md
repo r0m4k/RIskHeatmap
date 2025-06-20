@@ -1,4 +1,4 @@
-# RIskHeatmap
+# RIskHeatmap - Visualizer
 
 This repository contains the code (riskHeatmap.py) and the plot example that this code produces (riskHeatmap.png)
 
